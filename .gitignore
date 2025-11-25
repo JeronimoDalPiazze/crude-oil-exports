@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter artifacts (if used later)
+.ipynb_checkpoints/
+
+# Environment / Secrets
+.env
+.env.local
+.env.dev
+.env.prod
+*.dotenv
+
+# VS Code
+.vscode/
+.code-workspace
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+*.db
+warehouse/
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# Prefect (future orchestration)
+.prefect/
+flow_logs/
+
+# Data files (raw + intermediate)
+data/raw/
+data/temp/
+data/intermediate/
+
+# Keep docs (dictionary) but ignore reprocessed outputs
+data/docs/*.tmp
+data/docs/*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

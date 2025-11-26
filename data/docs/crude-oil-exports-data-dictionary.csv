@@ -1,0 +1,20 @@
+Period,06/01/1985 to most recently available,ingestion_timestamp
+Year,1986 to most recently available,2025-11-26T00:37:51.823846+00:00
+Month,"January, February, March, April, May, June, July, August, September, October, November, December",2025-11-26T00:37:51.823846+00:00
+PADD,"PADD I, PADD II, PADD III,PADD IV, PADD V, Other, Total",2025-11-26T00:37:51.823846+00:00
+Oil Type,"Light, Medium, Heavy, Total",2025-11-26T00:37:51.823846+00:00
+Volume (m3/d),Volume of crude oil exports in cubic metres per day,2025-11-26T00:37:51.823846+00:00
+Volume (bbl/d),Volume of crude oil exports in barrels per day,2025-11-26T00:37:51.823846+00:00
+Confidential,Confidentiality rules have been applied to this report.  Some data is considered confidential and cannot be released.,2025-11-26T00:37:51.823846+00:00
+PADD,Petroleum Administration for Defense District (U.S.A.),2025-11-26T00:37:51.823846+00:00
+PADD I                                            ,East Coast,2025-11-26T00:37:51.823846+00:00
+PADD II                                           ,Midwest,2025-11-26T00:37:51.823846+00:00
+PADD III                                          ,Gulf Coast,2025-11-26T00:37:51.823846+00:00
+PADD IV                                           ,Rocky Mountain,2025-11-26T00:37:51.823846+00:00
+PADD V                                            ,West Coast (includes Hawaii and Alaska),2025-11-26T00:37:51.823846+00:00
+Other                                             ,Other exports (includes exports to storage and Non-US destnations),2025-11-26T00:37:51.823846+00:00
+Light,Crude oil with API of more than 30,2025-11-26T00:37:51.823846+00:00
+Medium,Crude oil with API between 25 and 30,2025-11-26T00:37:51.823846+00:00
+Heavy,Crude oil with API of less than 25,2025-11-26T00:37:51.823846+00:00
+m3,Cubic metres,2025-11-26T00:37:51.823846+00:00
+bbl,Barrels,2025-11-26T00:37:51.823846+00:00
